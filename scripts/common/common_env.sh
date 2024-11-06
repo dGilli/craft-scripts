@@ -27,3 +27,9 @@ DB_BACKUP_SUBDIR="db"
 ASSETS_BACKUP_SUBDIR="assets"
 CRAFT_BACKUP_SUBDIR="craft"
 FILES_BACKUP_SUBDIR="files"
+
+# Command for copying to clipboard
+COPY_CMD="pbcopy"
+
+# Command for opening a URL in the browser
+OPEN_CMD="open"
